@@ -1,2 +1,2 @@
-# goeventlet
-Event Sourcing + CQRS + Sagas
+# gventlet
+Event Sourcing + CQRS + Sagas implemented golang
